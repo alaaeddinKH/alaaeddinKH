@@ -39,7 +39,11 @@ Framework: React, java spring (https://www.linkedin.com/in/alaa-khity/)
 - Tools: GitHub, Kaggle, Jupyter Notebooks, Docker, Power BI, MS Office
   
 - Other: Deep understanding of machine learning algorithms, data visualization
+  
+<h4>My Articles</h4>
 
+- Multimodal Deep Networks [https://www.linkedin.com/pulse/multimodal-deep-networks-alaaeddin-kheiti-dbllf/?trackingId=APPSGWpCRLmWx2q8niko8A%3D%3D].
+  
 <h4>Connect</h4>
 - 📫 How to reach me **alaakhity7@gmail.com**
 
