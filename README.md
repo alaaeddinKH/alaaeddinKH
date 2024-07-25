@@ -2,20 +2,43 @@
 <h3 align="center">Computer Science Graduate - Machine Learning Engineer</h3>
 
 <img align="center" src="https://media.licdn.com/dms/image/C5612AQEEX_ZPhxDTOA/article-inline_image-shrink_1500_2232/0/1603209153441?e=1727308800&v=beta&t=DnYQPl3cuZc1YFXc7t6lt6zWwSNvksJV1VgPqdE5ypo"  />
-<h4>Kaggle Competition</h4>
-- Create a model for generating Turkish poetry by imitating the writing styles of specifi poets [TaklitçiAI](https://www.linkedin.com/in/alaa-khity/)
 
-- The competition aimed to predict the number of power outages for one month in each city [GDZ Elektrik Datathon 2024 (time series forecasting)](https://www.kaggle.com/competitions/gdz-elektrik-datathon-2024/leaderboard)
-  
-- A competition aimed at predicting the number of payment transactions that a customer will make [İyzico datathon (time series forecasting)](https://www.kaggle.com/competitions/iyzico-datathon)
+<h4>Graduation Project (TaklitçiAI):</h4>
+- The project aims to create a model for generating Turkish poetry by imitating the
+writing styles of specifi poets. The project involved fie-tuning the GPT-3.5
+Turbo model using data collected from fie poets. The ability to mimic the writing
+style was evaluated using a classifiation model that categorizes the poetry
+according to the fie poets. A performance comparison between the fie-tuned
+model and the original model showed that the fie-tuned model was
+signifiantly better at imitating the writing styles.
+The project was also presented to users through a web application.
+Models: GPT 3.5 turbo, TurkishBert
+Libraries used: Request, beautiful soup, Pandas, Openai, Scikit -learn,
+simpletransformers.
+Programming language: Python, Java
+Framework: React, java spring (https://www.linkedin.com/in/alaa-khity/)
+<h4>Kaggle Competition:</h4>
+<h5>1- GDZ Elektrik Datathon 2024 (time series forecasting):</h5>
+- The competition aimed to predict the number of power outages for one month in each city (https://www.kaggle.com/competitions/gdz-elektrik-datathon-2024/leaderboard)
+<h5>2- İyzico datathon: (time series forecasting)</h5>
+- A competition aimed at predicting the number of payment transactions that a customer will make(https://www.kaggle.com/competitions/iyzico-datathon)
 
 
 <h4>My Online Learning / Self Learning</h4>
 
+- Machine Learning Specialization - coursera \ Deeplearning.ai [https://www.coursera.org/account/accomplishments/specialization/CHFWKR9QW3WV]
+- Machine Learning Summer Camp - Miuul Company [https://www.coursera.org/account/accomplishments/specialization/CHFWKR9QW3WV](https://drive.google.com/file/d/1W3dPWBtFJXJQnsIgSSQmFLMV0_2YBRxx/view)
 
 
 <h4>Skills and Technologies</h4>
 
+- Programming Languages: Python, C, C#.
+
+- Libraries/Frameworks: TensorFlow, Scikit-Learn, Pandas, NumPy, FastAPI, plotly
+  
+- Tools: GitHub, Kaggle, Jupyter Notebooks, Docker, Power BI, MS Office
+  
+- Other: Deep understanding of machine learning algorithms, data visualization
 
 <h4>Connect</h4>
 - 📫 How to reach me **alaakhity7@gmail.com**
