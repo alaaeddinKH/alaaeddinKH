@@ -19,7 +19,7 @@ Programming language: Python, Java
 Framework: React, java spring (https://www.linkedin.com/in/alaa-khity/)
 <h4>Kaggle Competition:</h4>
 <h5>1- GDZ Elektrik Datathon 2024 (time series forecasting):</h5>
-- The competition aimed to predict the number of power outages for one month in each city (https://www.kaggle.com/competitions/gdz-elektrik-datathon-2024/leaderboard)
+- The competition aimed to predict the number of power outages for one month in each city (https://github.com/alaaeddinKH/GDZ-Datathon-2024)
 <h5>2- İyzico datathon: (time series forecasting)</h5>
 - A competition aimed at predicting the number of payment transactions that a customer will make(https://www.kaggle.com/competitions/iyzico-datathon)
 
