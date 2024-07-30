@@ -17,6 +17,27 @@ Libraries used: Request, beautiful soup, Pandas, Openai, Scikit -learn,
 simpletransformers.
 Programming language: Python, Java
 Framework: React, java spring ((https://github.com/alaaeddinKH/Graduation-project/tree/main))
+
+
+<h4>University training period:</h4>
+
+###### Data Science Intern
+###### Wolves Interactive company
+###### Wolves Interactive company
+###### Jul 2023 – Nov 2023 - istanbul
+###### Player journey tracking application
+An application that tracks players' journeys in games by analyzing the events
+they perform during gameplay. The app processes, cleans, and visualizes their
+data with professional charts. It helps the company identify events that lead to
+signifiant player drop-off or ensure that all parts of the game are functioning
+properly. Additionally, it monitors player behavior and enables the company to
+take appropriate actions.
+Libraries used: Pandas, NumPy, Plotly, Matlibplot
+Programming language: Python
+Framework: Custom tkinter
+[]
+
+
 <h4>Kaggle Competition:</h4>
 <h5>1- Rohlik datathon: (time series forecasting)</h5>
 - Rohlik Group, a leading European e-grocery innovator, is revolutionising the food retail industry. We operate across 11 warehouses in Czech Republic, Germany, Austria, Hungary, and Romania.
