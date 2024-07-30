@@ -38,13 +38,19 @@ Framework: Custom tkinter
 
 
 <h4>Kaggle Competition:</h4>
-<h5>1- Rohlik datathon: (time series forecasting)</h5>
+<h5>1- Rohlik datathon: (Time series forecasting)</h5>
 - Rohlik Group, a leading European e-grocery innovator, is revolutionising the food retail industry. We operate across 11 warehouses in Czech Republic, Germany, Austria, Hungary, and Romania.
 Our challenge focuses on predicting the number of orders (grocery deliveries) at selected warehouses for the next 60 days.[]
-<h5>2- GDZ Elektrik Datathon 2024 (time series forecasting):</h5>
+
+<h5>2- GDZ Elektrik Datathon 2024 (Time series forecasting):</h5>
 - The competition aimed to predict the number of power outages for one month in each city (https://github.com/alaaeddinKH/GDZ-Datathon-2024)
-<h5>3- İyzico datathon: (time series forecasting)</h5>
+
+<h5>3- İyzico datathon: (Time series forecasting)</h5>
 - A competition aimed at predicting the number of payment transactions that a customer will make(https://github.com/alaaeddinKH/iyzico_datathon)
+
+<h5>4- Arabic poems classification Competition: (Text classification)</h5>
+- A competition aimed at classification the Arabic poems to the peroid(https://github.com/alaaeddinKH/Arabic-poems-classification/tree/main)
+
 
 
 <h4>My Online Learning / Self Learning</h4>
