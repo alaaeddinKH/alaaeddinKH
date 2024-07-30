@@ -67,6 +67,9 @@ Our challenge focuses on predicting the number of orders (grocery deliveries) at
 <h4>My Articles</h4>
 
 - Multimodal Deep Networks [https://www.linkedin.com/pulse/multimodal-deep-networks-alaaeddin-kheiti-dbllf/?trackingId=APPSGWpCRLmWx2q8niko8A%3D%3D].
+- 
+- Transfer Learning (https://txaacademy.org.uk/%d9%86%d9%82%d9%84-%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%85-%d9%83%d9%8a%d9%81-%d9%8a%d9%8f%d9%85%d9%83%d9%86%d9%86%d8%a7-%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85-%d8%a7%d9%84%d9%85%d8%b9%d8%b1%d9%81/].
+
   
 <h4>Connect</h4>
 - 📫 How to reach me **alaakhity7@gmail.com**
