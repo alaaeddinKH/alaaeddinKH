@@ -23,7 +23,6 @@ Framework: React, java spring ((https://github.com/alaaeddinKH/Graduation-projec
 
 ###### Data Science Intern
 ###### Wolves Interactive company
-###### Wolves Interactive company
 ###### Jul 2023 – Nov 2023 - istanbul
 ###### Player journey tracking application
 An application that tracks players' journeys in games by analyzing the events
