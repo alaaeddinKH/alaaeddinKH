@@ -18,14 +18,18 @@ simpletransformers.
 Programming language: Python, Java
 Framework: React, java spring ((https://github.com/alaaeddinKH/Graduation-project/tree/main))
 <h4>Kaggle Competition:</h4>
-<h5>1- GDZ Elektrik Datathon 2024 (time series forecasting):</h5>
+<h5>1- Rohlik datathon: (time series forecasting)</h5>
+- Rohlik Group, a leading European e-grocery innovator, is revolutionising the food retail industry. We operate across 11 warehouses in Czech Republic, Germany, Austria, Hungary, and Romania.
+Our challenge focuses on predicting the number of orders (grocery deliveries) at selected warehouses for the next 60 days.[]
+<h5>2- GDZ Elektrik Datathon 2024 (time series forecasting):</h5>
 - The competition aimed to predict the number of power outages for one month in each city (https://github.com/alaaeddinKH/GDZ-Datathon-2024)
-<h5>2- İyzico datathon: (time series forecasting)</h5>
-- A competition aimed at predicting the number of payment transactions that a customer will make(https://www.kaggle.com/competitions/iyzico-datathon)
+<h5>3- İyzico datathon: (time series forecasting)</h5>
+- A competition aimed at predicting the number of payment transactions that a customer will make(https://github.com/alaaeddinKH/iyzico_datathon)
 
 
 <h4>My Online Learning / Self Learning</h4>
 
+- Convolutional Neural Networks (CNN) - coursera \ Deeplearning.ai [https://coursera.org/share/134f10d30dd5604fccb70f2ae153417b]
 - Machine Learning Specialization - coursera \ Deeplearning.ai [https://www.coursera.org/account/accomplishments/specialization/CHFWKR9QW3WV]
 - Machine Learning Summer Camp - Miuul Company [https://www.coursera.org/account/accomplishments/specialization/CHFWKR9QW3WV](https://drive.google.com/file/d/1W3dPWBtFJXJQnsIgSSQmFLMV0_2YBRxx/view)
 
