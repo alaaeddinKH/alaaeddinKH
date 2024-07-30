@@ -16,7 +16,7 @@ Models: GPT 3.5 turbo, TurkishBert
 Libraries used: Request, beautiful soup, Pandas, Openai, Scikit -learn,
 simpletransformers.
 Programming language: Python, Java
-Framework: React, java spring (https://www.linkedin.com/in/alaa-khity/)
+Framework: React, java spring ((https://github.com/alaaeddinKH/Graduation-project/tree/main))
 <h4>Kaggle Competition:</h4>
 <h5>1- GDZ Elektrik Datathon 2024 (time series forecasting):</h5>
 - The competition aimed to predict the number of power outages for one month in each city (https://github.com/alaaeddinKH/GDZ-Datathon-2024)
