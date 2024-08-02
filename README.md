@@ -40,7 +40,7 @@ Framework: Custom tkinter
 <h4>Kaggle Competition:</h4>
 <h5>1- Rohlik datathon: (Time series forecasting)</h5>
 - Rohlik Group, a leading European e-grocery innovator, is revolutionising the food retail industry. We operate across 11 warehouses in Czech Republic, Germany, Austria, Hungary, and Romania.
-Our challenge focuses on predicting the number of orders (grocery deliveries) at selected warehouses for the next 60 days.[]
+Our challenge focuses on predicting the number of orders (grocery deliveries) at selected warehouses for the next 60 days.[MODELING: https://www.kaggle.com/code/alaaeddinkhet/rohlik-baseline-with-result-plot-score-0-0468] [EDA: https://www.kaggle.com/code/alaaeddinkhet/full-eda-rohlik]
 
 <h5>2- GDZ Elektrik Datathon 2024 (Time series forecasting):</h5>
 - The competition aimed to predict the number of power outages for one month in each city (https://github.com/alaaeddinKH/GDZ-Datathon-2024)
